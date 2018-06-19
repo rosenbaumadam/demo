@@ -3,4 +3,4 @@
 this is a simple readme file
 ## Header 2
 Modifying this file
-CHANGING IN MASTER
+THIS IS HOW IT SHOULD BE!
